@@ -1,4 +1,5 @@
-- 👋 Hello there, I’m @FerPoxa
+<center><h1>👋 Hello there, I’m FerPoxa<h1></center>
+  <hr>
 - 👀 I’m a 19 year old student who is currently learning C# and Systems and Networks Administration
 - 📫 You can contact me through my E-Mail:fernando.munano@outlook.com
 
