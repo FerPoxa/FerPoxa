@@ -1,7 +1,8 @@
 <center><h1>👋 Hello there, I’m FerPoxa<h1></center>
+------------------------------------------------
 <bold>·</bold>👀 I’m a 19 year old student who is currently learning object oriented programming and Systems and Networks Administration
-<br>- <bold>·</bold>📫 You can contact me through my E-Mail:fernando.munano@outlook.com
-
+<br><bold>·</bold>📫 You can contact me through my E-Mail:fernando.munano@outlook.com
+--------------------------------------------------
 <!---
 FerPoxa/FerPoxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
