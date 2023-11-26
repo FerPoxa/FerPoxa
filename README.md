@@ -1,6 +1,6 @@
 <h1>👋 Hello there, I’m FerPoxa</h1>
 <h2>💻 Devops Student</h2>
-<bold>·</bold>👀 I’m a 19 year old student who is currently learning object oriented programming and Systems and Networks Administration
+<bold>·</bold>👀 I’m a 20 year old student who is currently learning Systems and Networks Administration and cybersecurity
 <br><bold>·</bold>📫 You can contact me through my E-Mail:fernando.munano@outlook.com
 
 <!---
